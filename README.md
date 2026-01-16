@@ -36,4 +36,4 @@ An event-driven cloud monitoring system that ingests system logs, identifies cri
 ![Email Alert](images/email-alert.png)
 
 #### 4. Storage: DynamoDB Entries
-![DynamoDB Data](images/dynamodb-entries.png)
+![DynamoDB Data](images/dynamdb-entries.png)
