@@ -23,3 +23,17 @@ An event-driven cloud monitoring system that ingests system logs, identifies cri
 2. **Process:** Lambda decodes the GZIP/Base64 CloudWatch data.
 3. **Storage:** Log details are saved to the `LogAnalysis` table.
 4. **Output:** If "CRITICAL" is detected, an alert is sent to a confirmed email subscription.
+
+### 🚀 Proof of Work
+
+#### 1. Input: Simulated Log via CLI
+![CLI Simulation](images/cli-simulation.png)
+
+#### 2. Process: Lambda Execution Logs
+![Lambda Logs](screenshots/lambda-logs-analysis.png)
+
+#### 3. Output: Real-time Email Alert
+![Email Alert](screenshots/email-alert.png)
+
+#### 4. Storage: DynamoDB Entries
+![DynamoDB Data](images/dynamodb-entries.png)
