@@ -30,10 +30,10 @@ An event-driven cloud monitoring system that ingests system logs, identifies cri
 ![CLI Simulation](images/cli-simulation.png)
 
 #### 2. Process: Lambda Execution Logs
-![Lambda Logs](screenshots/lambda-logs-analysis.png)
+![Lambda Logs](images/lambda-logs-analysis.png)
 
 #### 3. Output: Real-time Email Alert
-![Email Alert](screenshots/email-alert.png)
+![Email Alert](images/email-alert.png)
 
 #### 4. Storage: DynamoDB Entries
 ![DynamoDB Data](images/dynamodb-entries.png)
